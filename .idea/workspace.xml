@@ -2,14 +2,302 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="895591c2-b758-46e5-99c7-64ad5fb66076" name="Default Changelist" comment="add">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Github-Pages-Example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbueluojing.github.io/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/hbueluojing.github.io/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbueluojing.github.io/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/hbueluojing.github.io/_layouts/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbueluojing.github.io/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/hbueluojing.github.io/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbueluojing.github.io/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/hbueluojing.github.io/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/github page.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/.idea/DeerResume-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-cookies/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-cookies/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-cookies/angular-cookies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-cookies/angular-cookies.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-cookies/angular-cookies.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-cookies/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-route/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-route/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-route/angular-route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-route/angular-route.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-route/angular-route.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-route/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-sanitize/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-sanitize/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-sanitize/angular-sanitize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-sanitize/angular-sanitize.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-sanitize/angular-sanitize.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular-sanitize/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular/angular-csp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular/angular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular/angular.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular/angular.min.js.gzip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular/angular.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angular/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angularLocalStorage/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angularLocalStorage/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angularLocalStorage/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angularLocalStorage/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angularLocalStorage/examples/assets/foundation.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angularLocalStorage/examples/assets/hero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angularLocalStorage/examples/assets/jquery-1.9.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angularLocalStorage/examples/assets/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angularLocalStorage/examples/assets/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angularLocalStorage/examples/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angularLocalStorage/examples/assets/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angularLocalStorage/examples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angularLocalStorage/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/angularLocalStorage/src/angularLocalStorage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/dist/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/dist/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/dist/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/grunt/bs-glyphicons-data-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/grunt/bs-lessdoc-parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/grunt/bs-raw-files-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/grunt/sauce_browsers.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/js/affix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/js/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/js/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/js/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/js/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/js/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/js/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/js/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/js/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/js/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/js/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/js/transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/alerts.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/badges.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/bootstrap.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/breadcrumbs.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/button-groups.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/buttons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/carousel.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/close.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/code.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/component-animations.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/dropdowns.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/forms.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/glyphicons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/grid.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/input-groups.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/jumbotron.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/labels.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/list-group.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/media.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/alerts.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/background-variant.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/border-radius.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/buttons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/center-block.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/clearfix.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/forms.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/gradients.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/grid-framework.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/grid.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/hide-text.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/image.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/labels.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/list-group.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/nav-divider.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/nav-vertical-align.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/opacity.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/pagination.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/panels.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/progress-bar.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/reset-filter.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/resize.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/responsive-visibility.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/size.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/tab-focus.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/table-row.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/text-emphasis.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/text-overflow.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/mixins/vendor-prefixes.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/modals.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/navbar.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/navs.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/normalize.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/pager.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/pagination.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/panels.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/popovers.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/print.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/progress-bars.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/responsive-embed.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/responsive-utilities.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/scaffolding.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/tables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/theme.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/thumbnails.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/tooltip.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/type.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/utilities.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/less/wells.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/bootstrap/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/MIT-LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/dist/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/dist/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/ajax/jsonp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/ajax/load.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/ajax/parseJSON.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/ajax/parseXML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/ajax/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/ajax/var/nonce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/ajax/var/rquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/ajax/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/attributes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/attributes/attr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/attributes/classes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/attributes/prop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/attributes/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/attributes/val.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/callbacks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/core/access.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/core/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/core/parseHTML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/core/ready.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/core/var/rsingleTag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/css/addGetHookIf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/css/curCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/css/defaultDisplay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/css/hiddenVisibleSelectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/css/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/css/swap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/css/var/cssExpand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/css/var/getStyles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/css/var/isHidden.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/css/var/rmargin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/css/var/rnumnonpx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/data/Data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/data/accepts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/data/var/data_priv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/data/var/data_user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/deferred.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/deprecated.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/dimensions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/effects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/effects/Tween.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/effects/animatedSelector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/event/alias.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/event/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/exports/amd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/exports/global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/intro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/manipulation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/manipulation/_evalUrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/manipulation/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/manipulation/var/rcheckableType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/offset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/outro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/queue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/queue/delay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/selector-native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/selector-sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/serialize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/sizzle/dist/sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/sizzle/dist/sizzle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/sizzle/dist/sizzle.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/traversing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/traversing/findFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/traversing/var/rneedsContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/var/arr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/var/class2type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/var/concat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/var/hasOwn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/var/indexOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/var/pnum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/var/push.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/var/rnotwhite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/var/slice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/var/strundefined.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/var/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/var/toString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/jquery/src/wrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/ng-notify/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/ng-notify/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/ng-notify/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/ng-notify/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/ng-notify/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/ng-notify/dist/ng-notify.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/ng-notify/dist/ng-notify.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/ng-notify/src/scripts/ng-notify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/ng-notify/src/styles/ng-notify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/ng-notify/src/styles/ng-notify.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/showdown/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/showdown/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/showdown/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/showdown/compressed/extensions/github.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/showdown/compressed/extensions/google-prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/showdown/compressed/extensions/twitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/showdown/compressed/showdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/showdown/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/showdown/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/showdown/src/extensions/github.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/showdown/src/extensions/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/showdown/src/extensions/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/showdown/src/extensions/twitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/bower/components/showdown/src/showdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/css/yue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/data.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/image/book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/image/browser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/image/cog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/image/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/image/printer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/js/jspdf.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/js/jspdf.plugin.addhtml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/js/wizMarkdown.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeerResume-master/resume.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hbueluojing.github.io" beforeDir="false" afterPath="$PROJECT_DIR$/../hbueluojing.github.io" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,161 +307,36 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/images/external_link.gif">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/images/external_link_on.gif">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/images/icons.gif">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/_includes/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/_layouts/page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/_layouts/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/_layouts/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/_includes/disqus.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/blog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="58" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hbueluojing.github.io" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/hbueluojing.github.io/_posts/2019-07-12-reactive-spring-study.md" />
-        <option value="$PROJECT_DIR$/hbueluojing.github.io/index.md" />
-        <option value="$PROJECT_DIR$/hbueluojing.github.io/welcome.html" />
-        <option value="$PROJECT_DIR$/hbueluojing.github.io/index.html" />
-        <option value="$PROJECT_DIR$/hbueluojing.github.io/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/hbueluojing.github.io/blog.html" />
-        <option value="$PROJECT_DIR$/hbueluojing.github.io/_layouts/page.html" />
-        <option value="$PROJECT_DIR$/hbueluojing.github.io/_layouts/post.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-5" />
-    <option name="y" value="32" />
-    <option name="width" value="1920" />
-    <option name="height" value="1038" />
-  </component>
+  <component name="ProjectId" id="1kE5iTglzJk5AepZuGnEA8TUND6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="github page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github page" type="462c0819:PsiDirectoryNode" />
-              <item name="hbueluojing.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github page" type="462c0819:PsiDirectoryNode" />
-              <item name="hbueluojing.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github page" type="462c0819:PsiDirectoryNode" />
-              <item name="hbueluojing.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hbueluojing.github.io" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jing.luo@rakuten.com\IdeaProjects\mystudy\github page\hbueluojing.github.io" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
@@ -210,6 +373,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -221,6 +385,7 @@
       <option name="presentableId" value="Default" />
       <updated>1562894774081</updated>
       <workItem from="1562894775716" duration="11560000" />
+      <workItem from="1605253038089" duration="3238000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1562897579530</created>
@@ -274,222 +439,25 @@
     <option name="localTasksCounter" value="8" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11560000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-4" y="26" width="1536" height="830" extended-state="0" />
-    <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25203252" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="PlantUML" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Mongo Explorer" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.24966443" />
-      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Remote Host" order="1" />
-      <window_info anchor="right" id="Mongo Explorer" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="PlantUML" order="5" />
-      <window_info anchor="right" id="SciView" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/_posts/2018-12-12-why-blog.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/_posts/2018-12-12-mysql-optimazation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="63">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Github-Pages-Example/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/CNAME">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/_config.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Github-Pages-Example/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Github-Pages-Example/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/_posts/2019-07-12-reactive-spring-study.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/images/githubpages/bootcamp_1_ssh.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/images/githubpages/bootcamp_1_token.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/images/githubpages/bootcamp_1_win_gitbash.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/images/githubpages/github-account-setting.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/images/githubpages/disqus-site.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/images/githubpages/other-pages.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/images/githubpages/ssh-key-set.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/images/githubpages/user-pages.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/images/external_link.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/images/external_link_on.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/images/icons.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/_includes/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/_includes/disqus.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="58" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbueluojing.github.io/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1605253135033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.728/1366.0.2560.1400@0.0.1366.728" timestamp="1605253135033" />
+    <state x="367" y="66" key="RollbackChangesDialog" timestamp="1605253137990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="367" y="66" key="RollbackChangesDialog/0.0.1366.728/1366.0.2560.1400@0.0.1366.728" timestamp="1605253137990" />
+    <state x="389" y="97" width="587" height="534" key="find.popup" timestamp="1605504628456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="97" width="587" height="534" key="find.popup/0.0.1366.728/1366.0.2560.1400@0.0.1366.728" timestamp="1605504628456" />
   </component>
 </project>

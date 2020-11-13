@@ -1,4 +1,4 @@
-DeerResume
+ResumeTemplate
 ==========
 
 最好用的MarkDown在线简历工具，可在线预览、编辑、设置访问密码和生成PDF
@@ -21,7 +21,7 @@ DeerResume
 
 ### FAQ
 
-如何在没有云端的情况下使用DeerResume？
+如何在没有云端的情况下使用ResumeTemplate？
 
 - 请在可访问云端的情况下完成MarkDown的编辑，然后复制好简历内容。
 - 修改app.js 注释掉第3行，打开第4行，将数据源切到本地。 
